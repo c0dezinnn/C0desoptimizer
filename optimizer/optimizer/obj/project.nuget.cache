@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fIbZg75C3jEsQC2maimqWlRQyNLvhdX3EOfrq3ywrDaAqVx2prgeWZyMyo8qm7f7v2NLYjmNW1LIAWgS66aINw==",
+  "success": true,
+  "projectFilePath": "D:\\repos\\optimizer\\optimizer\\optimizer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\osbag\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.27\\microsoft.windows.sdk.net.ref.10.0.17763.27.nupkg.sha512"
+  ],
+  "logs": []
+}
